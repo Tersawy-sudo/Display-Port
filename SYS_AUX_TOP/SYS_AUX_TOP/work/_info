@@ -1,0 +1,540 @@
+m255
+K4
+z2
+!s11f vlog 2021.1 2021.01, Jan 19 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/questasim64_2021.1/examples
+vaux_ctrl_unit
+Z0 DXx6 sv_std 3 std 0 22 9oUSJO;AeEaW`l:M@^WG92
+Z1 !s110 1745182662
+!i10b 1
+!s100 _<5`MCcSPlkMEM33YB;<=3
+Ig_MJbl>5ULXV3OjC6nj=]1
+S1
+Z2 dC:/Users/PC/OneDrive/Desktop/SYS_AUX_TOP
+Z3 w1745181737
+8C:/Users/PC/OneDrive/Desktop/SYS_AUX_TOP/SYS_AUX_TOP/AUX_CTRL_Unit/aux_ctrl_unit.sv
+FC:/Users/PC/OneDrive/Desktop/SYS_AUX_TOP/SYS_AUX_TOP/AUX_CTRL_Unit/aux_ctrl_unit.sv
+!i122 63
+L0 11 524
+Z4 VDg1SIo80bB@j0V0VzS_@n1
+Z5 OL;L;2021.1;73
+r1
+!s85 0
+31
+Z6 !s108 1745182662.000000
+!s107 C:/Users/PC/OneDrive/Desktop/SYS_AUX_TOP/SYS_AUX_TOP/AUX_CTRL_Unit/aux_ctrl_unit.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/PC/OneDrive/Desktop/SYS_AUX_TOP/SYS_AUX_TOP/AUX_CTRL_Unit/aux_ctrl_unit.sv|
+!i113 0
+Z7 o-work work -sv -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z8 tCvgOpt 0
+vaux_top
+R0
+R1
+!i10b 1
+!s100 1dDKe]dFk^0@DchgD3Vh]1
+IFgB2]:BZmoZ^X02=JnbKH0
+S1
+R2
+w1745182655
+8C:/Users/PC/OneDrive/Desktop/SYS_AUX_TOP/SYS_AUX_TOP/AUX_TOP/aux_top.sv
+FC:/Users/PC/OneDrive/Desktop/SYS_AUX_TOP/SYS_AUX_TOP/AUX_TOP/aux_top.sv
+!i122 64
+L0 1 417
+R4
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/PC/OneDrive/Desktop/SYS_AUX_TOP/SYS_AUX_TOP/AUX_TOP/aux_top.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/PC/OneDrive/Desktop/SYS_AUX_TOP/SYS_AUX_TOP/AUX_TOP/aux_top.sv|
+!i113 0
+R7
+R8
+vbidirectional_aux_phy_interface
+R0
+R1
+!i10b 1
+!s100 =?Y`beOSKBkFK]HnU_0b:1
+I4nzKmbOS`a06Dd5[DJJQC1
+S1
+R2
+R3
+8C:/Users/PC/OneDrive/Desktop/SYS_AUX_TOP/SYS_AUX_TOP/BiDirectional_AUX_PHY_Interface/bidirectional_aux_phy_interface.sv
+FC:/Users/PC/OneDrive/Desktop/SYS_AUX_TOP/SYS_AUX_TOP/BiDirectional_AUX_PHY_Interface/bidirectional_aux_phy_interface.sv
+!i122 65
+L0 9 115
+R4
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/PC/OneDrive/Desktop/SYS_AUX_TOP/SYS_AUX_TOP/BiDirectional_AUX_PHY_Interface/bidirectional_aux_phy_interface.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/PC/OneDrive/Desktop/SYS_AUX_TOP/SYS_AUX_TOP/BiDirectional_AUX_PHY_Interface/bidirectional_aux_phy_interface.sv|
+!i113 0
+R7
+R8
+vcr_eq_lt_top
+R0
+Z9 !s110 1745182663
+!i10b 1
+!s100 bncE``DCHzem_9ZRDPgOI1
+I3=kKLV84oGYdKgeb2[UES2
+S1
+R2
+R3
+8C:/Users/PC/OneDrive/Desktop/SYS_AUX_TOP/SYS_AUX_TOP/Link_Training_Top/cr_eq_lt_top.sv
+FC:/Users/PC/OneDrive/Desktop/SYS_AUX_TOP/SYS_AUX_TOP/Link_Training_Top/cr_eq_lt_top.sv
+!i122 78
+L0 1 197
+R4
+R5
+r1
+!s85 0
+31
+Z10 !s108 1745182663.000000
+!s107 C:/Users/PC/OneDrive/Desktop/SYS_AUX_TOP/SYS_AUX_TOP/Link_Training_Top/cr_eq_lt_top.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/PC/OneDrive/Desktop/SYS_AUX_TOP/SYS_AUX_TOP/Link_Training_Top/cr_eq_lt_top.sv|
+!i113 0
+R7
+R8
+vcr_eq_mux
+R0
+R9
+!i10b 1
+!s100 bdeY?;H84[2BKJUbjebbA3
+ISk>_BdJ1=?_3_fEkOC9M31
+S1
+R2
+R3
+8C:/Users/PC/OneDrive/Desktop/SYS_AUX_TOP/SYS_AUX_TOP/MUXES/cr_eq_mux.sv
+FC:/Users/PC/OneDrive/Desktop/SYS_AUX_TOP/SYS_AUX_TOP/MUXES/cr_eq_mux.sv
+!i122 79
+L0 3 37
+R4
+R5
+r1
+!s85 0
+31
+R10
+!s107 C:/Users/PC/OneDrive/Desktop/SYS_AUX_TOP/SYS_AUX_TOP/MUXES/cr_eq_mux.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/PC/OneDrive/Desktop/SYS_AUX_TOP/SYS_AUX_TOP/MUXES/cr_eq_mux.sv|
+!i113 0
+R7
+R8
+vcr_err_chk
+R0
+R1
+!i10b 1
+!s100 8J2]bH`2;`j8?NO@>B_jc3
+I04;[:_L_AZe1bYzdiVXBh1
+S1
+R2
+R3
+8C:/Users/PC/OneDrive/Desktop/SYS_AUX_TOP/SYS_AUX_TOP/CR/cr_err_chk.sv
+FC:/Users/PC/OneDrive/Desktop/SYS_AUX_TOP/SYS_AUX_TOP/CR/cr_err_chk.sv
+!i122 66
+L0 11 416
+R4
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/PC/OneDrive/Desktop/SYS_AUX_TOP/SYS_AUX_TOP/CR/cr_err_chk.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/PC/OneDrive/Desktop/SYS_AUX_TOP/SYS_AUX_TOP/CR/cr_err_chk.sv|
+!i113 0
+R7
+R8
+vcr_fsm
+R0
+R1
+!i10b 1
+!s100 62ORML5QSZ6zIVbcfPn3`3
+Im=hSe>KUGa4leMb8Y?1572
+S1
+R2
+R3
+8C:/Users/PC/OneDrive/Desktop/SYS_AUX_TOP/SYS_AUX_TOP/CR/cr_fsm.sv
+FC:/Users/PC/OneDrive/Desktop/SYS_AUX_TOP/SYS_AUX_TOP/CR/cr_fsm.sv
+!i122 67
+L0 12 762
+R4
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/PC/OneDrive/Desktop/SYS_AUX_TOP/SYS_AUX_TOP/CR/cr_fsm.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/PC/OneDrive/Desktop/SYS_AUX_TOP/SYS_AUX_TOP/CR/cr_fsm.sv|
+!i113 0
+R7
+R8
+vcr_tb
+R0
+R9
+!i10b 1
+!s100 n;m_S35SmfeSVE]@Wah_<0
+I^b[=mc:>SW<IVzkJZ[1W<2
+S1
+R2
+R3
+8C:/Users/PC/OneDrive/Desktop/SYS_AUX_TOP/SYS_AUX_TOP/CR/cr_tb.sv
+FC:/Users/PC/OneDrive/Desktop/SYS_AUX_TOP/SYS_AUX_TOP/CR/cr_tb.sv
+!i122 68
+L0 2 700
+R4
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/PC/OneDrive/Desktop/SYS_AUX_TOP/SYS_AUX_TOP/CR/cr_tb.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/PC/OneDrive/Desktop/SYS_AUX_TOP/SYS_AUX_TOP/CR/cr_tb.sv|
+!i113 0
+R7
+R8
+vcr_top
+R0
+R9
+!i10b 1
+!s100 Q;3Q3b[M?bJf2C0Y@EFDL0
+I`@z6E]MU13_=3C2PXXOmn0
+S1
+R2
+R3
+8C:/Users/PC/OneDrive/Desktop/SYS_AUX_TOP/SYS_AUX_TOP/CR/cr_top.sv
+FC:/Users/PC/OneDrive/Desktop/SYS_AUX_TOP/SYS_AUX_TOP/CR/cr_top.sv
+!i122 69
+Z11 L0 1 160
+R4
+R5
+r1
+!s85 0
+31
+R10
+!s107 C:/Users/PC/OneDrive/Desktop/SYS_AUX_TOP/SYS_AUX_TOP/CR/cr_top.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/PC/OneDrive/Desktop/SYS_AUX_TOP/SYS_AUX_TOP/CR/cr_top.sv|
+!i113 0
+R7
+R8
+veq_err_chk
+R0
+R9
+!i10b 1
+!s100 `Ud0An]olEV[WmYFUGZK21
+I4VUCAR8@U4L@?Yma?<VhP0
+S1
+R2
+R3
+8C:/Users/PC/OneDrive/Desktop/SYS_AUX_TOP/SYS_AUX_TOP/EQ/eq_err_chk.sv
+FC:/Users/PC/OneDrive/Desktop/SYS_AUX_TOP/SYS_AUX_TOP/EQ/eq_err_chk.sv
+!i122 71
+L0 11 239
+R4
+R5
+r1
+!s85 0
+31
+R10
+!s107 C:/Users/PC/OneDrive/Desktop/SYS_AUX_TOP/SYS_AUX_TOP/EQ/eq_err_chk.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/PC/OneDrive/Desktop/SYS_AUX_TOP/SYS_AUX_TOP/EQ/eq_err_chk.sv|
+!i113 0
+R7
+R8
+veq_fsm
+R0
+R9
+!i10b 1
+!s100 nn2ahVhG]GmnTHV[U3if;1
+I2]dl^aP5OQS=WZB0S?KHF2
+S1
+R2
+R3
+8C:/Users/PC/OneDrive/Desktop/SYS_AUX_TOP/SYS_AUX_TOP/EQ/eq_fsm.sv
+FC:/Users/PC/OneDrive/Desktop/SYS_AUX_TOP/SYS_AUX_TOP/EQ/eq_fsm.sv
+!i122 72
+L0 19 864
+R4
+R5
+r1
+!s85 0
+31
+R10
+!s107 C:/Users/PC/OneDrive/Desktop/SYS_AUX_TOP/SYS_AUX_TOP/EQ/eq_fsm.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/PC/OneDrive/Desktop/SYS_AUX_TOP/SYS_AUX_TOP/EQ/eq_fsm.sv|
+!i113 0
+R7
+R8
+veq_top
+R0
+R9
+!i10b 1
+!s100 ilM4IBog75GeOC<J[l[H80
+ImoTHZ8UHA_bGXS?>^d2710
+S1
+R2
+R3
+8C:/Users/PC/OneDrive/Desktop/SYS_AUX_TOP/SYS_AUX_TOP/EQ/eq_top.sv
+FC:/Users/PC/OneDrive/Desktop/SYS_AUX_TOP/SYS_AUX_TOP/EQ/eq_top.sv
+!i122 73
+R11
+R4
+R5
+r1
+!s85 0
+31
+R10
+!s107 C:/Users/PC/OneDrive/Desktop/SYS_AUX_TOP/SYS_AUX_TOP/EQ/eq_top.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/PC/OneDrive/Desktop/SYS_AUX_TOP/SYS_AUX_TOP/EQ/eq_top.sv|
+!i113 0
+R7
+R8
+vhpd
+R0
+R9
+!i10b 1
+!s100 Tz;n2O@g]j>_K7_=TB[2J2
+I`@5`;ofD4L_Y??aTRO7<]0
+S1
+R2
+R3
+8C:/Users/PC/OneDrive/Desktop/SYS_AUX_TOP/SYS_AUX_TOP/HPD/hpd.sv
+FC:/Users/PC/OneDrive/Desktop/SYS_AUX_TOP/SYS_AUX_TOP/HPD/hpd.sv
+!i122 74
+L0 10 126
+R4
+R5
+r1
+!s85 0
+31
+R10
+!s107 C:/Users/PC/OneDrive/Desktop/SYS_AUX_TOP/SYS_AUX_TOP/HPD/hpd.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/PC/OneDrive/Desktop/SYS_AUX_TOP/SYS_AUX_TOP/HPD/hpd.sv|
+!i113 0
+R7
+R8
+vi2c_fsm
+R0
+R9
+!i10b 1
+!s100 _NC6]KfWKf^B_lJgc0FVc0
+IAP?M>Z0AJR7;UU@YA45f62
+S1
+R2
+R3
+8C:/Users/PC/OneDrive/Desktop/SYS_AUX_TOP/SYS_AUX_TOP/I2C Encoder/i2c_fsm.sv
+FC:/Users/PC/OneDrive/Desktop/SYS_AUX_TOP/SYS_AUX_TOP/I2C Encoder/i2c_fsm.sv
+!i122 75
+L0 9 358
+R4
+R5
+r1
+!s85 0
+31
+R10
+!s107 C:/Users/PC/OneDrive/Desktop/SYS_AUX_TOP/SYS_AUX_TOP/I2C Encoder/i2c_fsm.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/PC/OneDrive/Desktop/SYS_AUX_TOP/SYS_AUX_TOP/I2C Encoder/i2c_fsm.sv|
+!i113 0
+R7
+R8
+vi2c_msg_encoder
+R0
+R9
+!i10b 1
+!s100 ?P3dVPg9fPXLjX;7LWZ633
+IRaJ^bol@8G<inncd`IDnO1
+S1
+R2
+R3
+8C:/Users/PC/OneDrive/Desktop/SYS_AUX_TOP/SYS_AUX_TOP/I2C Encoder/i2c_msg_encoder.sv
+FC:/Users/PC/OneDrive/Desktop/SYS_AUX_TOP/SYS_AUX_TOP/I2C Encoder/i2c_msg_encoder.sv
+!i122 76
+L0 3 151
+R4
+R5
+r1
+!s85 0
+31
+R10
+!s107 C:/Users/PC/OneDrive/Desktop/SYS_AUX_TOP/SYS_AUX_TOP/I2C Encoder/i2c_msg_encoder.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/PC/OneDrive/Desktop/SYS_AUX_TOP/SYS_AUX_TOP/I2C Encoder/i2c_msg_encoder.sv|
+!i113 0
+R7
+R8
+vi2c_top
+R0
+R9
+!i10b 1
+!s100 D>[Sn6Kj81BZLcLgTDFc;1
+IFM[Xdd8P<mJ@NUPekQG0U0
+S1
+R2
+R3
+8C:/Users/PC/OneDrive/Desktop/SYS_AUX_TOP/SYS_AUX_TOP/I2C Encoder/i2c_top.sv
+FC:/Users/PC/OneDrive/Desktop/SYS_AUX_TOP/SYS_AUX_TOP/I2C Encoder/i2c_top.sv
+!i122 77
+L0 1 52
+R4
+R5
+r1
+!s85 0
+31
+R10
+!s107 C:/Users/PC/OneDrive/Desktop/SYS_AUX_TOP/SYS_AUX_TOP/I2C Encoder/i2c_top.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/PC/OneDrive/Desktop/SYS_AUX_TOP/SYS_AUX_TOP/I2C Encoder/i2c_top.sv|
+!i113 0
+R7
+R8
+vlink_trainning_ctr
+R0
+R9
+!i10b 1
+!s100 ZK4^4MEBJ?Sgl_c[_So@43
+INQB3[CWgXHbHezJEi0E0I1
+S1
+R2
+R3
+8C:/Users/PC/OneDrive/Desktop/SYS_AUX_TOP/SYS_AUX_TOP/CTR/link_trainning_ctr.sv
+FC:/Users/PC/OneDrive/Desktop/SYS_AUX_TOP/SYS_AUX_TOP/CTR/link_trainning_ctr.sv
+!i122 70
+L0 9 233
+R4
+R5
+r1
+!s85 0
+31
+R10
+!s107 C:/Users/PC/OneDrive/Desktop/SYS_AUX_TOP/SYS_AUX_TOP/CTR/link_trainning_ctr.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/PC/OneDrive/Desktop/SYS_AUX_TOP/SYS_AUX_TOP/CTR/link_trainning_ctr.sv|
+!i113 0
+R7
+R8
+vnative_i2c_de_mux
+R0
+Z12 !s110 1745182664
+!i10b 1
+!s100 >EdV;9CDnmEDDA6UXAk;X0
+Ij?i0]LCdl>A:[lz[KO]0Q3
+S1
+R2
+R3
+8C:/Users/PC/OneDrive/Desktop/SYS_AUX_TOP/SYS_AUX_TOP/MUXES/native_i2c_de_mux.sv
+FC:/Users/PC/OneDrive/Desktop/SYS_AUX_TOP/SYS_AUX_TOP/MUXES/native_i2c_de_mux.sv
+!i122 80
+L0 8 54
+R4
+R5
+r1
+!s85 0
+31
+R10
+!s107 C:/Users/PC/OneDrive/Desktop/SYS_AUX_TOP/SYS_AUX_TOP/MUXES/native_i2c_de_mux.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/PC/OneDrive/Desktop/SYS_AUX_TOP/SYS_AUX_TOP/MUXES/native_i2c_de_mux.sv|
+!i113 0
+R7
+R8
+vnative_i2c_mux
+R0
+R12
+!i10b 1
+!s100 _1WhKQLa1Wgg[3Y?@_^Zc1
+IJc9Q9BO]Yh2`E<o@Q4R0K0
+S1
+R2
+R3
+8C:/Users/PC/OneDrive/Desktop/SYS_AUX_TOP/SYS_AUX_TOP/MUXES/native_i2c_mux.sv
+FC:/Users/PC/OneDrive/Desktop/SYS_AUX_TOP/SYS_AUX_TOP/MUXES/native_i2c_mux.sv
+!i122 81
+L0 8 26
+R4
+R5
+r1
+!s85 0
+31
+Z13 !s108 1745182664.000000
+!s107 C:/Users/PC/OneDrive/Desktop/SYS_AUX_TOP/SYS_AUX_TOP/MUXES/native_i2c_mux.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/PC/OneDrive/Desktop/SYS_AUX_TOP/SYS_AUX_TOP/MUXES/native_i2c_mux.sv|
+!i113 0
+R7
+R8
+vnative_message_encoder
+R0
+R12
+!i10b 1
+!s100 `TfPH6JDBm9_[gRZh8Ti^1
+IQj^U_`URN0NVINUY3Gl6Y3
+S1
+R2
+R3
+8C:/Users/PC/OneDrive/Desktop/SYS_AUX_TOP/SYS_AUX_TOP/Native_Endoder/Native_Message_Encoder.sv
+FC:/Users/PC/OneDrive/Desktop/SYS_AUX_TOP/SYS_AUX_TOP/Native_Endoder/Native_Message_Encoder.sv
+!i122 82
+L0 9 193
+R4
+R5
+r1
+!s85 0
+31
+R13
+!s107 C:/Users/PC/OneDrive/Desktop/SYS_AUX_TOP/SYS_AUX_TOP/Native_Endoder/Native_Message_Encoder.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/PC/OneDrive/Desktop/SYS_AUX_TOP/SYS_AUX_TOP/Native_Endoder/Native_Message_Encoder.sv|
+!i113 0
+R7
+R8
+vReply_Decoder
+R0
+R12
+!i10b 1
+!s100 T4gM8B7]?QnY72^^`a?[F1
+INVmF9NgjaO`5YFCM[Q?9b2
+S1
+R2
+Z14 w1745181738
+8C:/Users/PC/OneDrive/Desktop/SYS_AUX_TOP/SYS_AUX_TOP/Reply_Decoder/Reply_Decoder.sv
+FC:/Users/PC/OneDrive/Desktop/SYS_AUX_TOP/SYS_AUX_TOP/Reply_Decoder/Reply_Decoder.sv
+!i122 83
+L0 1 69
+R4
+R5
+r1
+!s85 0
+31
+R13
+!s107 C:/Users/PC/OneDrive/Desktop/SYS_AUX_TOP/SYS_AUX_TOP/Reply_Decoder/Reply_Decoder.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/PC/OneDrive/Desktop/SYS_AUX_TOP/SYS_AUX_TOP/Reply_Decoder/Reply_Decoder.sv|
+!i113 0
+R7
+R8
+n@reply_@decoder
+vtimeout_timer
+R0
+R12
+!i10b 1
+!s100 E5X><ePY<RA7F?nP`L3R82
+IeS?@:NjbQRI@US33j2c763
+S1
+R2
+R14
+8C:/Users/PC/OneDrive/Desktop/SYS_AUX_TOP/SYS_AUX_TOP/Timeout_Timer/timeout_timer.sv
+FC:/Users/PC/OneDrive/Desktop/SYS_AUX_TOP/SYS_AUX_TOP/Timeout_Timer/timeout_timer.sv
+!i122 84
+L0 10 83
+R4
+R5
+r1
+!s85 0
+31
+R13
+!s107 C:/Users/PC/OneDrive/Desktop/SYS_AUX_TOP/SYS_AUX_TOP/Timeout_Timer/timeout_timer.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/PC/OneDrive/Desktop/SYS_AUX_TOP/SYS_AUX_TOP/Timeout_Timer/timeout_timer.sv|
+!i113 0
+R7
+R8
